@@ -1,5 +1,5 @@
 //
-//  UIColor+Hex.swift
+//  NSColor+Hex.swift
 //  SimonSays
 //
 //  Created by Simon Støvring on 05/01/2017.

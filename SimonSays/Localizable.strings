@@ -7,4 +7,5 @@
 */
 
 "START_GAME" = "Start game";
-"END_GAME" = "End  game";
+"SCORE" = "Score: %i";
+"COUNTDOWN" = "%i";
